@@ -1,3 +1,9 @@
+### Project 
+In this project we used React to create a application that would allow users to search for Employee data. The user can search by name for a specific user to find specific data about the employee. Additionally, the user can sort the employee data alphabetically.
+
+![Employee](image.png)
+
+
 ## Overview
 
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
