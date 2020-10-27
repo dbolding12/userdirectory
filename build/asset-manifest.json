@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/userdirectory.git.io/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/userdirectory.git.io/static/js/main.644c3b73.chunk.js",
-    "main.js.map": "/userdirectory.git.io/static/js/main.644c3b73.chunk.js.map",
-    "runtime-main.js": "/userdirectory.git.io/static/js/runtime-main.7bd81078.js",
-    "runtime-main.js.map": "/userdirectory.git.io/static/js/runtime-main.7bd81078.js.map",
-    "static/js/2.591fd046.chunk.js": "/userdirectory.git.io/static/js/2.591fd046.chunk.js",
-    "static/js/2.591fd046.chunk.js.map": "/userdirectory.git.io/static/js/2.591fd046.chunk.js.map",
-    "static/js/3.caa29551.chunk.js": "/userdirectory.git.io/static/js/3.caa29551.chunk.js",
-    "static/js/3.caa29551.chunk.js.map": "/userdirectory.git.io/static/js/3.caa29551.chunk.js.map",
-    "index.html": "/userdirectory.git.io/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/userdirectory.git.io/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.591fd046.chunk.js.LICENSE.txt": "/userdirectory.git.io/static/js/2.591fd046.chunk.js.LICENSE.txt"
+    "main.css": "/userdirectory.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/userdirectory.github.io/static/js/main.644c3b73.chunk.js",
+    "main.js.map": "/userdirectory.github.io/static/js/main.644c3b73.chunk.js.map",
+    "runtime-main.js": "/userdirectory.github.io/static/js/runtime-main.85424574.js",
+    "runtime-main.js.map": "/userdirectory.github.io/static/js/runtime-main.85424574.js.map",
+    "static/js/2.591fd046.chunk.js": "/userdirectory.github.io/static/js/2.591fd046.chunk.js",
+    "static/js/2.591fd046.chunk.js.map": "/userdirectory.github.io/static/js/2.591fd046.chunk.js.map",
+    "static/js/3.caa29551.chunk.js": "/userdirectory.github.io/static/js/3.caa29551.chunk.js",
+    "static/js/3.caa29551.chunk.js.map": "/userdirectory.github.io/static/js/3.caa29551.chunk.js.map",
+    "index.html": "/userdirectory.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/userdirectory.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.591fd046.chunk.js.LICENSE.txt": "/userdirectory.github.io/static/js/2.591fd046.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bd81078.js",
+    "static/js/runtime-main.85424574.js",
     "static/js/2.591fd046.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.644c3b73.chunk.js"
